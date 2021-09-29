@@ -124,6 +124,23 @@ brief:
  5- git pull origin master --allow-unrelated-histories
  6- git push origin master
 
+
+N.B.
+Per fare il git push viene richiesto username e password
+La password è fornita da GitHub come token
+Per creare il token accedere su GitHub:
+	-> Setting
+           -> Developer Setting
+              -> Personal Acces Token => Generate New Token
+ Memorizza Token
+
+ Eseguire in sequenza: 
+     $ git config credential.helper store
+     $ git pull
+     $ git push
+Saranno richieste credenziali. Fornire il token alla richiesta password.
+Dopo questo non ti sarà più richiesta la password
+
 references:
 https://stackoverflow.com/questions/12799719/how-to-upload-a-project-to-github
 https://www.tutsmake.com/upload-project-files-on-github-using-command-line/
