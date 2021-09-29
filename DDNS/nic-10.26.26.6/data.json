@@ -1,0 +1,57 @@
+{
+    "Date": "29/09/2021, 11:46:16", 
+    "WAN": "2.192.192.255\n", 
+    "LAN": "10.26.26.6\n", 
+    "NAME": "nic\n", 
+    "DDNS": {
+        "www.duckdns.org": [
+            {
+                "lunapark25": "OK"
+            }, 
+            {
+                "lunapark30": "OK"
+            }, 
+            {
+                "lunapark40": "OK"
+            }, 
+            {
+                "lunapark50": "OK"
+            }, 
+            {
+                "lunapark3000": "OK"
+            }, 
+            {
+                "lutto": "OK\n2.192.192.255\n\nNOCHANGE"
+            }
+        ], 
+        "dynv6.com": [
+            {
+                "lunapark1000.com": "addresses unchanged"
+            }
+        ], 
+        "api.dynu.com": [
+            {
+                "lunapark100.mywire.org": "nochg"
+            }, 
+            {
+                "lunapark101.camdvr.org": "nochg"
+            }
+        ], 
+        "www.no-ip.com": [
+            {
+                "lunapark27.hopto.org": "nochg 2.192.192.255\r\n"
+            }, 
+            {
+                "lunapark28.hopto.org": "nochg 2.192.192.255\r\n"
+            }, 
+            {
+                "lunapark666.ddns.net": "nochg 2.192.192.255\r\n"
+            }
+        ], 
+        "dynupdate.no-ip.com": [
+            {
+                "lunapark27.hopto.org": "nochg 2.192.192.255\r\n"
+            }
+        ]
+    }
+}
