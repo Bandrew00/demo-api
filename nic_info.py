@@ -3,6 +3,7 @@ import json, logging, os, sys
 
 c_host 		= None  # Server flask
 c_ddns_folder	= 'DDNS/'
+c_setup_folder  = 'SETUP-DDNS/'
 app 		= Flask(__name__)
 
 ################################################################
@@ -62,6 +63,29 @@ def Post():
     	return "OK",201
     except (Exception) as e:
 	return "DDNS Fail: {}".format(e), 500
+
+################################################################
+# Creo struttura ad albero su file system (Mappatura NUC + NIC)
+################################################################
+@app.route("/Add", methods=["POST"])
+def Add():
+    try:
+    	json_data    = request.json
+    	# Prelevo chiave NUC per creare la cartella radice in SETUP-DDNS
+        nuc_name_key = json_data.keys()[1] #.replace('\n','')
+  	nuc_folder   = c_setup_folder + nuc_name_key + '/'
+	if not os.path.exists(nuc_folder):os.makedirs(nuc_folder)
+	# ciclo la lista delle nic con chiave nuc_name_key
+        # e creo struttura su file system
+        for nic_name in json_data[nuc_name_key]:
+ 	    nic_folder = nuc_folder + nic_name
+            if not os.path.exists(nic_folder):os.makedirs(nic_folder)
+	return "OK",201
+    except (Exception) as e:
+	return "DDNS Fail: {}".format(e), 500
+
+
+
 
 if __name__ == '__main__':
 
