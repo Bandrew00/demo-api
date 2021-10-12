@@ -58,9 +58,8 @@ if __name__ == "__main__":
           cmd = ssh_command + ' ip r' + ' | awk \'{ print $1 }\' | grep -i \'/30\''
           for ip in sp.check_output(cmd,shell=True).splitlines():
 	      ip         = ip[0:ip.rfind('/')]
-              offset     = ip.rfind('.')
-              old_digit  = ip[offset+1:] 
-              new_digit  = str(int(old_digit) +2) # aggiungo 2 all'ottetto lsb per ottenere IP NIC
+              old_digit  = ip[ip.rfind('.')+1:]                                # ultime cifra indirizzo IP xx.xx.xx.nn
+              new_digit  = str(int(old_digit) +2)                              # aggiungo 2 all'ottetto lsb per ottenere IP NIC
               ip         = ip.replace('.'+old_digit, '.'+new_digit)
               #
               # Ottengo nome host della NIC via SSH
@@ -70,7 +69,7 @@ if __name__ == "__main__":
               if not os.path.exists("./" + c_ddns_config_folder + nuc_folder + nic_folder):
                  os.makedirs(c_ddns_config_folder + nuc_folder + nic_folder)
                  logging.info("Nuova cartella: " + c_ddns_config_folder + nuc_folder + nic_folder) 
-                   
+                             
    except (Exception) as e:
  	  error = "DDNS Fail: {}".format(e)
           ERROR = True
