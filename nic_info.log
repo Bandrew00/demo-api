@@ -1,0 +1,87 @@
+INFO: 2021-10-13 16:49:48,043:  * Running on http://localhost:8080/ (Press CTRL+C to quit)
+INFO: 2021-10-13 16:50:35,128: 127.0.0.1 - - [13/Oct/2021 16:50:35] "[37mGET / HTTP/1.1[0m" 200 -
+INFO: 2021-10-13 16:50:35,303: 127.0.0.1 - - [13/Oct/2021 16:50:35] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO: 2021-10-13 16:51:12,883:  * Running on http://localhost:8080/ (Press CTRL+C to quit)
+INFO: 2021-10-13 16:56:11,948:  * Running on http://localhost:8080/ (Press CTRL+C to quit)
+INFO: 2021-10-13 16:57:24,006:  * Running on http://localhost:8080/ (Press CTRL+C to quit)
+INFO: 2021-10-13 16:58:29,066: 127.0.0.1 - - [13/Oct/2021 16:58:29] "[37mGET / HTTP/1.1[0m" 200 -
+INFO: 2021-10-13 17:00:06,164: 127.0.0.1 - - [13/Oct/2021 17:00:06] "[37mGET / HTTP/1.1[0m" 200 -
+INFO: 2021-10-13 17:02:00,933: 127.0.0.1 - - [13/Oct/2021 17:02:00] "[37mGET / HTTP/1.1[0m" 200 -
+INFO: 2021-10-13 17:04:10,490: 127.0.0.1 - - [13/Oct/2021 17:04:10] "[37mGET / HTTP/1.1[0m" 200 -
+INFO: 2021-10-13 17:05:59,649: 127.0.0.1 - - [13/Oct/2021 17:05:59] "[37mGET / HTTP/1.1[0m" 200 -
+INFO: 2021-10-13 17:06:47,150: 127.0.0.1 - - [13/Oct/2021 17:06:47] "[37mGET / HTTP/1.1[0m" 200 -
+INFO: 2021-10-13 17:08:47,478: 127.0.0.1 - - [13/Oct/2021 17:08:47] "[37mGET / HTTP/1.1[0m" 200 -
+INFO: 2021-10-13 17:08:47,818: 127.0.0.1 - - [13/Oct/2021 17:08:47] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO: 2021-10-13 17:08:58,229: 127.0.0.1 - - [13/Oct/2021 17:08:58] "[37mGET / HTTP/1.1[0m" 200 -
+INFO: 2021-10-13 17:09:05,492: 127.0.0.1 - - [13/Oct/2021 17:09:05] "[37mGET / HTTP/1.1[0m" 200 -
+INFO: 2021-10-13 17:42:32,616:  * Running on http://localhost:8080/ (Press CTRL+C to quit)
+INFO: 2021-10-13 23:43:13,190:  * Running on http://localhost:8080/ (Press CTRL+C to quit)
+INFO: 2021-10-13 23:47:34,785:  * Running on http://localhost:8080/ (Press CTRL+C to quit)
+INFO: 2021-10-13 23:48:55,981:  * Running on http://localhost:8080/ (Press CTRL+C to quit)
+INFO: 2021-10-13 23:50:45,315: 127.0.0.1 - - [13/Oct/2021 23:50:45] "[37mGET / HTTP/1.1[0m" 200 -
+INFO: 2021-10-13 23:52:16,912:  * Running on http://localhost:8080/ (Press CTRL+C to quit)
+INFO: 2021-10-14 00:02:33,245:  * Running on http://localhost:8080/ (Press CTRL+C to quit)
+INFO: 2021-10-14 00:37:51,733:  * Running on http://localhost:8080/ (Press CTRL+C to quit)
+INFO: 2021-10-14 00:41:27,435:  * Running on http://localhost:8080/ (Press CTRL+C to quit)
+INFO: 2021-10-14 00:42:02,652:  * Running on http://localhost:8080/ (Press CTRL+C to quit)
+INFO: 2021-10-14 00:44:48,072:  * Running on http://localhost:8080/ (Press CTRL+C to quit)
+INFO: 2021-10-14 00:47:50,793:  * Running on http://localhost:8080/ (Press CTRL+C to quit)
+INFO: 2021-10-14 00:49:56,588:  * Running on http://localhost:8080/ (Press CTRL+C to quit)
+INFO: 2021-10-14 00:54:08,907:  * Running on http://localhost:8080/ (Press CTRL+C to quit)
+INFO: 2021-10-14 00:56:10,831:  * Running on http://localhost:8080/ (Press CTRL+C to quit)
+INFO: 2021-10-14 00:56:39,089: 127.0.0.1 - - [14/Oct/2021 00:56:39] "[33mGET / HTTP/1.1[0m" 404 -
+INFO: 2021-10-14 00:56:39,148: 127.0.0.1 - - [14/Oct/2021 00:56:39] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO: 2021-10-14 01:04:47,712:  * Running on http://localhost:8080/ (Press CTRL+C to quit)
+INFO: 2021-10-14 01:10:33,872:  * Running on http://localhost:8080/ (Press CTRL+C to quit)
+INFO: 2021-10-14 01:11:46,670:  * Running on http://localhost:8080/ (Press CTRL+C to quit)
+INFO: 2021-10-14 01:13:44,212:  * Running on http://localhost:8080/ (Press CTRL+C to quit)
+INFO: 2021-10-14 01:17:36,019:  * Running on http://localhost:8080/ (Press CTRL+C to quit)
+INFO: 2021-10-14 01:20:43,404:  * Running on http://localhost:8080/ (Press CTRL+C to quit)
+INFO: 2021-10-14 08:41:56,330:  * Running on http://localhost:8080/ (Press CTRL+C to quit)
+INFO: 2021-10-14 08:42:23,732:  * Running on http://localhost:8080/ (Press CTRL+C to quit)
+INFO: 2021-10-14 08:42:30,532: 127.0.0.1 - - [14/Oct/2021 08:42:30] "[37mGET / HTTP/1.1[0m" 200 -
+INFO: 2021-10-14 08:54:07,764:  * Running on http://localhost:8080/ (Press CTRL+C to quit)
+INFO: 2021-10-14 08:56:20,585:  * Running on http://localhost:8080/ (Press CTRL+C to quit)
+INFO: 2021-10-14 08:58:01,024:  * Running on http://localhost:8080/ (Press CTRL+C to quit)
+INFO: 2021-10-14 09:07:45,711:  * Running on http://localhost:8080/ (Press CTRL+C to quit)
+INFO: 2021-10-14 09:08:13,951: 127.0.0.1 - - [14/Oct/2021 09:08:13] "[37mGET / HTTP/1.1[0m" 200 -
+INFO: 2021-10-14 09:10:16,805:  * Running on http://localhost:8080/ (Press CTRL+C to quit)
+INFO: 2021-10-14 09:10:48,143:  * Running on http://localhost:8080/ (Press CTRL+C to quit)
+INFO: 2021-10-14 09:13:41,622:  * Running on http://localhost:8080/ (Press CTRL+C to quit)
+INFO: 2021-10-14 09:14:33,644:  * Running on http://localhost:8080/ (Press CTRL+C to quit)
+INFO: 2021-10-14 09:15:49,775:  * Running on http://localhost:8080/ (Press CTRL+C to quit)
+INFO: 2021-10-14 09:18:02,978:  * Running on http://localhost:8080/ (Press CTRL+C to quit)
+INFO: 2021-10-14 09:21:29,846:  * Running on http://localhost:8080/ (Press CTRL+C to quit)
+INFO: 2021-10-14 09:22:09,462:  * Running on http://localhost:8080/ (Press CTRL+C to quit)
+INFO: 2021-10-14 09:23:41,427:  * Running on http://localhost:8080/ (Press CTRL+C to quit)
+INFO: 2021-10-14 09:24:11,824:  * Running on http://localhost:8080/ (Press CTRL+C to quit)
+INFO: 2021-10-14 09:25:03,480: 127.0.0.1 - - [14/Oct/2021 09:25:03] "[37mGET / HTTP/1.1[0m" 200 -
+INFO: 2021-10-14 09:26:16,641:  * Running on http://localhost:8080/ (Press CTRL+C to quit)
+INFO: 2021-10-14 09:28:39,280:  * Running on http://localhost:8080/ (Press CTRL+C to quit)
+INFO: 2021-10-14 09:30:06,003: 127.0.0.1 - - [14/Oct/2021 09:30:06] "[37mGET / HTTP/1.1[0m" 200 -
+INFO: 2021-10-14 09:34:32,001: 127.0.0.1 - - [14/Oct/2021 09:34:32] "[37mGET / HTTP/1.1[0m" 200 -
+INFO: 2021-10-14 09:34:32,127: 127.0.0.1 - - [14/Oct/2021 09:34:32] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO: 2021-10-14 09:47:21,906:  * Running on http://localhost:8080/ (Press CTRL+C to quit)
+INFO: 2021-10-14 09:47:58,328:  * Running on http://localhost:8080/ (Press CTRL+C to quit)
+INFO: 2021-10-14 09:48:59,105:  * Running on http://localhost:8080/ (Press CTRL+C to quit)
+INFO: 2021-10-14 09:49:47,470: 127.0.0.1 - - [14/Oct/2021 09:49:47] "[37mGET / HTTP/1.1[0m" 200 -
+INFO: 2021-10-14 09:54:19,451:  * Running on http://localhost:8080/ (Press CTRL+C to quit)
+INFO: 2021-10-14 09:55:54,190: 127.0.0.1 - - [14/Oct/2021 09:55:54] "[37mGET / HTTP/1.1[0m" 200 -
+INFO: 2021-10-14 09:55:54,406: 127.0.0.1 - - [14/Oct/2021 09:55:54] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO: 2021-10-14 10:30:35,867:  * Running on http://localhost:8080/ (Press CTRL+C to quit)
+INFO: 2021-10-14 10:35:21,789:  * Running on http://localhost:8080/ (Press CTRL+C to quit)
+INFO: 2021-10-14 10:35:29,729: 127.0.0.1 - - [14/Oct/2021 10:35:29] "[33mGET / HTTP/1.1[0m" 404 -
+INFO: 2021-10-14 10:39:55,013: 127.0.0.1 - - [14/Oct/2021 10:39:55] "[33mGET / HTTP/1.1[0m" 404 -
+INFO: 2021-10-14 10:40:04,737: 127.0.0.1 - - [14/Oct/2021 10:40:04] "[33mGET / HTTP/1.1[0m" 404 -
+INFO: 2021-10-14 10:40:33,979: 127.0.0.1 - - [14/Oct/2021 10:40:33] "[33mGET / HTTP/1.1[0m" 404 -
+INFO: 2021-10-14 10:44:46,051:  * Running on http://localhost:8080/ (Press CTRL+C to quit)
+INFO: 2021-10-14 10:47:02,644:  * Running on http://localhost:8080/ (Press CTRL+C to quit)
+INFO: 2021-10-14 10:48:41,905:  * Running on http://localhost:8080/ (Press CTRL+C to quit)
+INFO: 2021-10-14 10:50:10,348:  * Running on http://localhost:8080/ (Press CTRL+C to quit)
+INFO: 2021-10-14 11:04:51,497:  * Running on http://localhost:8080/ (Press CTRL+C to quit)
+INFO: 2021-10-14 11:15:58,829:  * Running on http://localhost:8080/ (Press CTRL+C to quit)
+INFO: 2021-10-14 11:17:04,298: 127.0.0.1 - - [14/Oct/2021 11:17:04] "[33mGET / HTTP/1.1[0m" 404 -
+INFO: 2021-10-14 11:18:56,526:  * Running on http://localhost:8080/ (Press CTRL+C to quit)
+INFO: 2021-10-14 11:23:12,285: 127.0.0.1 - - [14/Oct/2021 11:23:12] "[37mGET / HTTP/1.1[0m" 200 -
+INFO: 2021-10-14 11:24:51,741: 127.0.0.1 - - [14/Oct/2021 11:24:51] "[35m[1mGET /Info?id=/home/andrea/DDNS-CONFIG/NUC-02_192.168.197.140/NIC_10.26.26.2 HTTP/1.1[0m" 500 -
+INFO: 2021-10-14 11:26:37,483: 127.0.0.1 - - [14/Oct/2021 11:26:37] "[35m[1mGET /Info?id=/home/andrea/DDNS-CONFIG/NUC-02_192.168.197.140/NIC_10.26.26.2 HTTP/1.1[0m" 500 -
